@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaxonHE12IKVMExampleConsoleApp", "SaxonHE12IKVMExampleConsoleApp.csproj", "{65D72B49-53A5-48B6-9C55-225F89372E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65D72B49-53A5-48B6-9C55-225F89372E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D72B49-53A5-48B6-9C55-225F89372E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D72B49-53A5-48B6-9C55-225F89372E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D72B49-53A5-48B6-9C55-225F89372E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10381F36-98FB-4245-928B-E247AFAF4F40}
+	EndGlobalSection
+EndGlobal
