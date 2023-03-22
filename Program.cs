@@ -1,6 +1,8 @@
 ﻿using net.sf.saxon.s9api;
 using net.liberty_development.SaxonHE12s9apiExtensions;
 
+Console.WriteLine($"{Environment.Version} {Environment.OSVersion}");
+
 var processor = new Processor(false);
 
 Console.WriteLine($"{processor.getSaxonEdition()} {processor.getSaxonProductVersion()}");
