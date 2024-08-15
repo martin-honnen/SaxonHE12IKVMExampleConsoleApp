@@ -1,1 +1,1 @@
-# Minimal .NET 6 console app using IKVM cross-compiled Saxon HE 12.1 from Maven to run XSLT 3.0
+# Minimal .NET 6/** console app using IKVM cross-compiled Saxon HE 12.5 from Maven to run XSLT 3.0
